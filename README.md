@@ -8,4 +8,4 @@ After creating a chatbot, the system needs an ontology knowledge base for human-
 
 ### The system architecture
 
-![The system architecture](./system architecture.png)
+![](./system%20architecture.png)
